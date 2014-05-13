@@ -14,7 +14,7 @@ There is a score board functionality.
 To run:
 
 ```
-ruby TicTac.rb
+$ ruby TicTac.rb
 ```
 
 And the game will start automatically.
